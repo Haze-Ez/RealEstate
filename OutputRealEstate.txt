@@ -1,0 +1,13 @@
+Cheapest Property: Nyíregyháza with a price of 110000.0
+
+Average sqm/room of the most expensive property in Budapest: 25.0
+
+Price of the most expensive property in Budapest: 250000.0
+
+Total Price of Properties: 1720000.0
+
+Average Sqm Price of Properties: 1152.0
+
+Condominium properties whose price does not exceed the average price:
+
+No affordable condominiums found.
